@@ -39,8 +39,8 @@ ____
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anas-hadri/)
 [![image](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
 )](https://github.com/anashadri/)
+[![image](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://flowcv.com/resume/cmhja934a0)
 [![Licence](https://img.shields.io/github/license/Ileriayo/markdown-badges?style=for-the-badge)](./LICENSE)
-[![image](https://github.com/user-attachments/assets/b35717db-410b-4d85-a04f-4b73c5c01e18)](https://flowcv.com/resume/cmhja934a0)
 ___
 ___
 ****HADRI ANAS****
