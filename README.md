@@ -14,7 +14,19 @@ I'am a Hydrological engineer : Master's degree in Water Sciences (AgroParisTech,
 - **M1 Professional internship (INRAe UR HYCAR)** : Development of a tool for assessing the surface area impacted by agricultural drainage for the protection of ZH, using hydrological and hydrodynamic modelling on R and HYDRUS 2D.
 - **Engineering internship (Société Générale des Travaux du Maroc)** : Observation of the construction of the HAY SEDRI storage gallery, part of the ‘East of CASABLANCA’ drainage reinforcement system.
 ## TOOLS:
-![image](https://github.com/user-attachments/assets/c2c8021d-96f8-47d5-80ef-7c80e739fe7f)
+<img src="path-to-office-icon.png" alt="Office" width="40"/> 
+<img src="[path-to-arcgis-icon.png](https://banner2.cleanpng.com/20180928/gbb/kisspng-esri-arcgis-geographic-information-system-logo-geo-arcgis-wikipedia-1713928749275.webp)" alt="ArcGIS" width="40"/>
+<img src="path-to-qgis-icon.png" alt="QGIS" width="40"/>
+<img src="path-to-python-icon.png" alt="Python" width="40"/>
+<img src="path-to-r-icon.png" alt="R" width="40"/>
+<img src="path-to-epanet-icon.png" alt="EPANET" width="40"/>
+<img src="path-to-spss-icon.png" alt="SPSS" width="40"/>
+<img src="path-to-agisoft-icon.png" alt="Agisoft" width="40"/>
+<img src="path-to-weap-icon.png" alt="WEAP" width="40"/>
+<img src="path-to-cloudcompare-icon.png" alt="CloudCompare" width="40"/>
+<img src="path-to-autocad-icon.png" alt="AutoCAD" width="40"/>
+<img src="path-to-hec-ras-icon.png" alt="HEC-RAS" width="40"/>
+
 
  Office  , ArcGIS, QGIS, Python, R, EPANET, SPSS, Agisoft, WEAP, cloudcompare, AutoCAD, HEC-RAS
  ## LANGUAGES : 
@@ -28,6 +40,7 @@ ____
 [![image](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
 )](https://github.com/anashadri/)
 [![Licence](https://img.shields.io/github/license/Ileriayo/markdown-badges?style=for-the-badge)](./LICENSE)
+
 ___
 ___
 ****HADRI ANAS****
