@@ -31,7 +31,6 @@ I'am a Hydrological engineer : Master's degree in Water Sciences (AgroParisTech,
 <div style="text-align: center; display: inline-block; margin: 10px;">
   <img src="https://github.com/user-attachments/assets/89bc71ff-2e29-4e83-afd3-746578e766f6" alt="Office" width="40"/>
   <p>Office</p>
-</div>
 <div style="text-align: center; display: inline-block; margin: 10px;">
   <img src="https://github.com/user-attachments/assets/56644351-a92c-490d-a75a-ac88e59dc44b" alt="ArcGIS" width="40"/>
   <p>ArcGIS</p>
