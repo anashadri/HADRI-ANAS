@@ -15,7 +15,7 @@ I'am a Hydrological engineer : Master's degree in Water Sciences (AgroParisTech,
 - **Engineering internship (Société Générale des Travaux du Maroc)** : Observation of the construction of the HAY SEDRI storage gallery, part of the ‘East of CASABLANCA’ drainage reinforcement system.
 ## TOOLS:
 <img src="path-to-office-icon.png" alt="Office" width="40"/> 
-<img src="![image](https://github.com/user-attachments/assets/91de3e54-21a5-4ee3-850e-ce09445bc2f1)" alt="ArcGIS" width="40"/>
+<img src="![arcgis](https://github.com/user-attachments/assets/fa893c37-ffd1-47c0-9bf2-405bcf85dc9b)" alt="ArcGIS" width="40"/>
 <img src="path-to-qgis-icon.png" alt="QGIS" width="40"/>
 <img src="path-to-python-icon.png" alt="Python" width="40"/>
 <img src="path-to-r-icon.png" alt="R" width="40"/>
