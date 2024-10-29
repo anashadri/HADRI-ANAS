@@ -14,10 +14,9 @@ I'am a Hydrological engineer : Master's degree in Water Sciences (AgroParisTech,
 - **M1 Professional internship (INRAe UR HYCAR)** : Development of a tool for assessing the surface area impacted by agricultural drainage for the protection of ZH, using hydrological and hydrodynamic modelling on R and HYDRUS 2D.
 - **Engineering internship (Société Générale des Travaux du Maroc)** : Observation of the construction of the HAY SEDRI storage gallery, part of the ‘East of CASABLANCA’ drainage reinforcement system.
 ## TOOLS:
-<img src="path-to-office-icon.png" alt="Office" width="40"/> 
-![image](https://github.com/user-attachments/assets/a5fbda11-2a58-4dce-a6e2-11372893b772)
-<img src="" alt="ArcGIS" width="40"/>
-<img src="path-to-qgis-icon.png" alt="QGIS" width="40"/>
+<img src="![image](https://github.com/user-attachments/assets/89bc71ff-2e29-4e83-afd3-746578e766f6)" alt="Office" width="40"/> 
+<img src="![image](https://github.com/user-attachments/assets/56644351-a92c-490d-a75a-ac88e59dc44b)" alt="ArcGIS" width="40"/>
+<img src="![image](https://github.com/user-attachments/assets/a15533ba-0503-4d2b-94e5-3a674456d0ef)" alt="QGIS" width="40"/>
 <img src="path-to-python-icon.png" alt="Python" width="40"/>
 <img src="path-to-r-icon.png" alt="R" width="40"/>
 <img src="path-to-epanet-icon.png" alt="EPANET" width="40"/>
