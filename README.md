@@ -14,7 +14,9 @@ I'am a Hydrological engineer : Master's degree in Water Sciences (AgroParisTech,
 - **M1 Professional internship (INRAe UR HYCAR)** : Development of a tool for assessing the surface area impacted by agricultural drainage for the protection of ZH, using hydrological and hydrodynamic modelling on R and HYDRUS 2D.
 - **Engineering internship (Société Générale des Travaux du Maroc)** : Observation of the construction of the HAY SEDRI storage gallery, part of the ‘East of CASABLANCA’ drainage reinforcement system.
 ## TOOLS:
- Office, ArcGIS, QGIS, Python, R, EPANET, SPSS, Agisoft, WEAP, cloudcompare, AutoCAD, HEC-RAS
+![image](https://github.com/user-attachments/assets/c2c8021d-96f8-47d5-80ef-7c80e739fe7f)
+
+ Office  , ArcGIS, QGIS, Python, R, EPANET, SPSS, Agisoft, WEAP, cloudcompare, AutoCAD, HEC-RAS
  ## LANGUAGES : 
 - Arabic 
 - French 
